@@ -1,0 +1,19 @@
+body{
+background-color: deeppink;
+color:aliceblue;
+}
+.heading{
+width:70%;
+font-size:25;
+}
+#camera{
+border-style: dashed;    
+border-width: 1px;
+border-color: black;
+width:350px;
+height: 300px;
+}
+
+.name_of_object,#result_object_name,#result_object_accuracy{
+color:forestgreen;
+}
